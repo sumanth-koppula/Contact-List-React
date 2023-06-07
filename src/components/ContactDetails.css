@@ -1,0 +1,28 @@
+ 
+
+#visible-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+#edit-delete-icons{
+    width: 20%;
+    display: flex;
+    justify-content:space-evenly;
+}
+#edit-delete-icons  .icon{
+    width:40%;
+    height:40%;
+    margin-right: 5px;;
+}
+.contact-details{
+    width:5%;
+    height:3%;
+}
+.details-icons{
+    padding: 0.5rem;
+}
+
+#address{
+    padding: 0.05rem 0rem 1rem 1rem;
+}
