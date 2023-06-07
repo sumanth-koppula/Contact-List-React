@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contact-List-React/static/css/main.a4a86279.css",
+    "main.js": "/Contact-List-React/static/js/main.df39c2ca.js",
+    "index.html": "/Contact-List-React/index.html",
+    "main.a4a86279.css.map": "/Contact-List-React/static/css/main.a4a86279.css.map",
+    "main.df39c2ca.js.map": "/Contact-List-React/static/js/main.df39c2ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a86279.css",
+    "static/js/main.df39c2ca.js"
+  ]
+}
